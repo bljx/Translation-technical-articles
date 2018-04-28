@@ -1,7 +1,7 @@
 # 什么是VPN？为什么要使用VPN？
 [原文链接](https://medium.com/threat-intel/vpns-internet-privacy-d06d0259cee5)
- 
-在线隐私最近一直是焦点。执法机构和政府致力于点对点加密，然而[美国允许互联网服务提供商（ISP）出售您的数据而不要求您的许可  https://www.theregister.co.uk/2017/03/28/congress_approves_sale_of_internet_histories 的规则变更，使人们越来越担心维护其数据和通信的隐私。 给自己一个额外隐私保障的方法之一是使用虚拟专用网络（VPN）。[隐私问题通常是人们使用VPN的主要原因]![](1.jpg)
+![](images/xiao/1.jpg)
+在线隐私最近一直是焦点。执法机构和政府致力于点对点加密，然而[美国允许互联网服务提供商（ISP）出售您的数据而不要求您的许可  https://www.theregister.co.uk/2017/03/28/congress_approves_sale_of_internet_histories 的规则变更，使人们越来越担心维护其数据和通信的隐私。 给自己一个额外隐私保障的方法之一是使用虚拟专用网络（VPN）。[隐私问题通常是人们使用VPN的主要原因]![](images/xiao/2.jpg)
 
 ******
 ## 什么是VPN？
@@ -18,7 +18,7 @@
 
 在世界某些国家，如天朝，许多人使用VPN来避免对Facebook和Twitter等网站进行审查。天朝的互联网审查是效果显著的，通常被称为防火长城，所以VPN的使用在全国历来很高。然而，这个人口最多的国家政府最近一直在打击VPN，其最近发布了[一项有效举措去禁止在手机上使用VPN  https://www.symantec.com/content/dam/symantec/docs/reports/2017-norton-wifi-risk-report-global-results-summary-en.pdf 俄罗斯方面也在逐步禁止VPN https://www.theregister.co.uk/2017/07/11/russia_china_vpns_tor_browser。
  
-使用VPN的人普遍是想要“地理欺骗”他们的位置，以便访问在他们实际位置被拒绝访问的内容。许多人使用VPN访问诸如BBC iPlayer或特定国家的Netflix产品之类的服务。不过，Netflix 成功阻止了使用VPN在其他国家/地区观看的人，许多VPN不再允许您访问Netflix。[“地理欺骗”他们的位置，以访问像BBC iPlayer这样的服务是有些人使用VPN的一个原因]![](2.jpg)
+使用VPN的人普遍是想要“地理欺骗”他们的位置，以便访问在他们实际位置被拒绝访问的内容。许多人使用VPN访问诸如BBC iPlayer或特定国家的Netflix产品之类的服务。不过，Netflix 成功阻止了使用VPN在其他国家/地区观看的人，许多VPN不再允许您访问Netflix。[“地理欺骗”他们的位置，以访问像BBC iPlayer这样的服务是有些人使用VPN的一个原因]![](images/xiao/3.jpg)
 
 如果在酒店，咖啡馆或机场等地方使用公共Wi-Fi，许多人使用VPN来确保他们有安全的连接。在这种情况下使用VPN就意味着您的互联网活动受到保护，不受窥探， 即使黑客已经设法破坏了您所使用的不安全的Wi-Fi网络。有趣的是，上文提及的诺顿调查还发现，87％的受访者承认在使用公共Wi-Fi时实施了具有安全隐患的行为，例如登录他们的电子邮件，社交媒体或银行帐户。
 
@@ -43,7 +43,7 @@ VPN服务通常运行起来非常的的昂贵，所以这些免费服务必须�
 
 
 ##  利弊 
-[在购买VPN之前，您应该权衡利弊]![](3.jpg)
+[在购买VPN之前，您应该权衡利弊]![](images/xiao/4.jpg)
 
 ### 因此，在选择VPN时需要考虑很多事情，但考虑您是否真的需要使用一个VPN也很重要。
   当您使用VPN时，您的互联网连接将会减慢。加密和解密数据需要处理能力，这将使您的计算机有所减慢，并且您的数据所经历的额外距离（即通过VPN服务器）也会使网速减慢。
