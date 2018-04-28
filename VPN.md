@@ -1,5 +1,5 @@
 # 什么是VPN？为什么要使用VPN？
-[原文链接](https://medium.com/threat-intel/vpns-internet-privacy-d06d0259cee5)
+[原文链接](https://medium.com/threat-intel/vpns-internet-privacy-d06d0259cee5)<br>
 ![](images/xiao/1.jpg)
 在线隐私最近一直是焦点。执法机构和政府致力于点对点加密，然而[美国允许互联网服务提供商（ISP）出售您的数据而不要求您的许可  https://www.theregister.co.uk/2017/03/28/congress_approves_sale_of_internet_histories 的规则变更，使人们越来越担心维护其数据和通信的隐私。 给自己一个额外隐私保障的方法之一是使用虚拟专用网络（VPN）。[隐私问题通常是人们使用VPN的主要原因]![](images/xiao/2.jpg)
 
